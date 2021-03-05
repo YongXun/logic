@@ -1,0 +1,32 @@
+.header{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 50px;
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+.header-title{
+    margin: 0;
+    width: 100%;
+    line-height: 50px;
+    display: flex;
+    flex-direction:row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.header-title h2{
+    margin:0;
+    font-size: 1.5rem;
+    line-height: 50px;
+    color:#00a8ff;
+}
+
+.header-title span{
+    line-height: 50px;
+    color: #dcdde1;
+}

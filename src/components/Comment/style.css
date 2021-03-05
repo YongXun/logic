@@ -1,0 +1,23 @@
+.comment-wrapper{
+    width: 100%;
+}
+
+.comment-header{
+    width: 100%;
+}
+
+.comment-header-wrapper{
+    margin-bottom: .5rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.comment-header-wrapper>div{
+    margin: 0 .1rem;
+}
+
+.comment-content{
+    padding-left: 1rem;
+    width: 100%;
+}

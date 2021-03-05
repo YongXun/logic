@@ -1,0 +1,9 @@
+.discover-left{
+    min-height: calc(100vh - 80px);
+    background-color: #fff;
+}
+
+.discover-right{
+    margin-left: 1rem;
+    background-color: #fff;
+}

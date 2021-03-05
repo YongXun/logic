@@ -1,0 +1,36 @@
+.mr-16{
+    margin-right: 16px;
+}
+
+.essay{
+    padding: .4rem;
+}
+
+.essay-title{
+    margin-bottom: .5rem;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: #00a8ff;
+}
+
+.essay-content{
+    position:relative;
+    margin: auto;
+    width: 90%;
+    font-size: 1rem;
+    line-height: 1rem;
+    letter-spacing: 1px;
+    max-height: 4rem;
+    overflow: hidden;
+    /* 设置多行溢出省略 */
+    display: -webkit-box; 
+	-webkit-box-orient: vertical;
+	/*设置省略号在容器第四行文本后*/
+	-webkit-line-clamp: 4;
+	overflow: hidden;
+}
+
+.essay-footer{
+    margin-top: .5rem;
+    width: 100%;
+}

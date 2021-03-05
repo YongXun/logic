@@ -1,0 +1,14 @@
+.detail-wrapper{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+
+.detail-title{
+    color: #888;
+    font-size: 1.5rem;
+}
+
+.detail-content{
+    padding: 0 1rem;
+}
